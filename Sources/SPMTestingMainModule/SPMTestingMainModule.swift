@@ -1,5 +1,5 @@
 public class SPMTestingMainModule {
-    public  var text = "Hello, World!"
+    public  var text = "Hello, SPMTestingMainModule!"
     public init() {}
     public  func sayHelloWorld() {
         
