@@ -1,6 +1,6 @@
-class SPMTestingMainModule {
-    var text = "Hello, World!"
-    func sayHelloWorld() {
+public class SPMTestingMainModule {
+    public  var text = "Hello, World!"
+    public  func sayHelloWorld() {
         
         print("\(text)")
     }
