@@ -1,0 +1,3 @@
+[submodule "SPMTestingModuleOne"]
+	path = SPMTestingModuleOne
+	url = https://github.com/sushantubale/SPMTestingModuleOne.git
